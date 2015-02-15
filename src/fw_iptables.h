@@ -32,8 +32,8 @@
 /*@{*/ 
 /**Iptable table names used by WifiDog */
 #define TABLE_WIFIDOG_OUTGOING  "WD_$ID$_Outgoing"
-#define TABLE_WIFIDOG_WIFI_TO_INTERNET "WD_$ID$_WiFi2Net"
-#define TABLE_WIFIDOG_WIFI_TO_ROUTER "WD_$ID$_WiFi2Router"
+#define TABLE_WIFIDOG_WIFI_TO_INTERNET "WD_$ID$_2Net"
+#define TABLE_WIFIDOG_WIFI_TO_ROUTER "WD_$ID$_2Router"
 #define TABLE_WIFIDOG_INCOMING  "WD_$ID$_Incoming"
 #define TABLE_WIFIDOG_AUTHSERVERS "WD_$ID$_AuthServers"
 #define TABLE_WIFIDOG_GLOBAL  "WD_$ID$_Global"
